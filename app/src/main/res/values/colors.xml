@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary - Soft Pink -->
+    <color name="pink_primary">#FFE4E1</color>
+    <color name="pink_primary_variant">#FFB6C1</color>
+    <color name="pink_dark">#E8A0A0</color>
+
+    <!-- Secondary - Soft Purple -->
+    <color name="purple_primary">#E6E6FA</color>
+    <color name="purple_primary_variant">#D8BFD8</color>
+    <color name="purple_dark">#C9A0C9</color>
+
+    <!-- Background -->
+    <color name="background_light">#FFF8F5</color>
+    <color name="background_dark">#1A1A1A</color>
+
+    <!-- Surface -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#2D2D2D</color>
+
+    <!-- Text -->
+    <color name="text_primary_light">#4A4A4A</color>
+    <color name="text_primary_dark">#F5F5F5</color>
+    <color name="text_secondary_light">#7A7A7A</color>
+    <color name="text_secondary_dark">#AAAAAA</color>
+
+    <!-- Accent -->
+    <color name="accent_coral">#FFB5A7</color>
+    <color name="accent_lavender">#E0BBE4</color>
+    <color name="accent_peach">#FFDAB9</color>
+
+    <!-- Status -->
+    <color name="success">#98D8AA</color>
+    <color name="warning">#FFE5B4</color>
+    <color name="error">#FFB4B4</color>
+
+    <!-- Flow colors -->
+    <color name="flow_light">#FFE4E1</color>
+    <color name="flow_medium">#FFB6C1</color>
+    <color name="flow_heavy">#E8A0A0</color>
+
+    <!-- Mood colors -->
+    <color name="mood_happy">#FFE5B4</color>
+    <color name="mood_calm">#E0BBE4</color>
+    <color name="mood_anxious">#FFDAB9</color>
+    <color name="mood_sad">#B4D4E8</color>
+    <color name="mood_tired">#C9C9C9</color>
+    <color name="mood_irritable">#FFB5A7</color>
+
+    <!-- Water -->
+    <color name="water_blue">#87CEEB</color>
+    <color name="water_progress">#5DADE2</color>
+</resources>

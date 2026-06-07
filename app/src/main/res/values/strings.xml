@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">她的小日历</string>
+    <string name="app_name_en">LoveCycle</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_period">经期</string>
+    <string name="nav_water">喝水</string>
+    <string name="nav_diary">日记</string>
+    <string name="nav_stats">统计</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- Home -->
+    <string name="home_greeting">今天也要好好照顾自己</string>
+    <string name="home_last_period">上次经期</string>
+    <string name="home_current_cycle_day">周期第%s天</string>
+    <string name="home_next_period">预计下次经期</string>
+    <string name="home_days_until">距离下次经期还有%s天</string>
+    <string name="home_expected_end">预计结束日期</string>
+    <string name="home_prediction_confidence">预测可信度</string>
+    <string name="home_water_today">今日喝水</string>
+    <string name="home_drink_now">喝一杯</string>
+
+    <!-- Period -->
+    <string name="period_add">添加记录</string>
+    <string name="period_edit">编辑记录</string>
+    <string name="period_start_date">开始日期</string>
+    <string name="period_end_date">结束日期</string>
+    <string name="period_flow">流量</string>
+    <string name="period_flow_light">少</string>
+    <string name="period_flow_medium">中</string>
+    <string name="period_flow_heavy">多</string>
+    <string name="period_pain_level">疼痛程度</string>
+    <string name="period_mood">心情</string>
+    <string name="period_symptoms">症状</string>
+    <string name="period_note">备注</string>
+    <string name="period_save">保存</string>
+    <string name="period_delete">删除</string>
+    <string name="period_no_records">还没有经期记录哦</string>
+
+    <!-- Water -->
+    <string name="water_title">喝水记录</string>
+    <string name="water_goal">今日目标</string>
+    <string name="water_progress">完成进度</string>
+    <string name="water_drink_one">喝一杯</string>
+    <string name="water_custom">自定义</string>
+    <string name="water_undo">撤销</string>
+    <string name="water_no_records">今天还没有喝水记录</string>
+    <string name="water_remaining">还差 %s ml</string>
+
+    <!-- Diary -->
+    <string name="diary_title">心情日记</string>
+    <string name="diary_add">写日记</string>
+    <string name="diary_edit">编辑日记</string>
+    <string name="diary_content">内容</string>
+    <string name="diary_tags">标签</string>
+    <string name="diary_save">保存</string>
+    <string name="diary_delete">删除</string>
+    <string name="diary_no_entries">还没有写日记</string>
+
+    <!-- Stats -->
+    <string name="stats_title">统计</string>
+    <string name="stats_avg_cycle">平均周期</string>
+    <string name="stats_avg_period">平均经期</string>
+    <string name="stats_common_symptoms">常见症状</string>
+    <string name="stats_avg_pain">平均疼痛</string>
+    <string name="stats_water_trend">喝水趋势</string>
+    <string name="stats_mood_distribution">心情分布</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置</string>
+    <string name="settings_water_goal">每日喝水目标</string>
+    <string name="settings_cup_size">杯子容量</string>
+    <string name="settings_water_reminder">喝水提醒</string>
+    <string name="settings_reminder_time">提醒时间</string>
+    <string name="settings_reminder_interval">提醒间隔</string>
+    <string name="settings_period_cycle">经期周期</string>
+    <string name="settings_period_duration">经期时长</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_light">浅色</string>
+    <string name="settings_theme_dark">深色</string>
+    <string name="settings_theme_system">跟随系统</string>
+    <string name="settings_privacy_lock">隐私锁</string>
+    <string name="settings_pre_period_reminder">经期前提醒</string>
+    <string name="settings_pre_period_days">提前天数</string>
+    <string name="settings_notification_permission">通知权限</string>
+    <string name="settings_notification_hint">开启通知后，我才能准时提醒你喝水</string>
+
+    <!-- About -->
+    <string name="about_title">关于</string>
+    <string name="about_description">她的小日历是一款私人记录工具，用于记录经期、喝水和心情。</string>
+    <string name="about_privacy">数据默认只保存在本机，不上传任何隐私数据。</string>
+    <string name="about_no_ads">不接入广告，不接入第三方统计。</string>
+    <string name="about_medical_disclaimer">经期预测仅供参考，不作为医疗建议。如果身体明显不适，请及时咨询医生。</string>
+    <string name="about_version">版本 %s</string>
+
+    <!-- Reminders -->
+    <string name="reminder_water_title">该喝水啦</string>
+    <string name="reminder_water_content">喝一杯水，照顾好今天的自己</string>
+    <string name="reminder_period_title">经期提醒</string>
+    <string name="reminder_period_content">可能快到经期了，注意休息和保暖。</string>
+
+    <!-- Common -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="ok">好的</string>
+    <string name="ml">ml</string>
+    <string name="days">天</string>
+
+    <!-- PIN Lock -->
+    <string name="pin_enter">请输入PIN码</string>
+    <string name="pin_set">设置PIN码</string>
+    <string name="pin_confirm">确认PIN码</string>
+    <string name="pin_error">PIN码不正确</string>
+    <string name="pin_mismatch">两次输入不一致</string>
+
+    <!-- Medical Disclaimer -->
+    <string name="medical_disclaimer">经期和排卵期预测仅供参考，不作为医疗建议。如果身体明显不适，请及时咨询医生。</string>
+
+    <!-- Export/Import -->
+    <string name="export_title">导出数据</string>
+    <string name="export_warning">这些数据可能包含私密健康信息，请妥善保存。</string>
+    <string name="import_title">导入数据</string>
+    <string name="import_warning">导入将覆盖或合并现有数据，确定继续吗？</string>
+
+    <!-- Empty states -->
+    <string name="empty_no_period_records">还没有经期记录</string>
+    <string name="empty_no_water_records">今天还没有喝水记录</string>
+    <string name="empty_no_diary">还没有写日记</string>
+    <string name="empty_no_anniversary">还没有纪念日</string>
+
+    <!-- Care messages -->
+    <string name="care_drink_water">记得喝水哦</string>
+    <string name="care_rest">不舒服的话就慢慢来</string>
+    <string name="care_great_job">你已经做得很好啦</string>
+    <string name="care_hard_work">今天也辛苦啦</string>
+    <string name="care_eat">记得好好吃饭</string>
+    <string name="care_feel_bad">如果身体不舒服，请及时休息</string>
+</resources>

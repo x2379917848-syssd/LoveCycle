@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Heart shape -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M54,85 C54,85 25,60 25,40 C25,28 34,20 45,20 C50,20 54,23 54,23 C54,23 58,20 63,20 C74,20 83,28 83,40 C83,60 54,85 54,85 Z"/>
+    <!-- Small heart -->
+    <path
+        android:fillColor="#E8A0A0"
+        android:pathData="M54,75 C54,75 35,58 35,45 C35,38 40,33 47,33 C50,33 54,35 54,35 C54,35 58,33 61,33 C68,33 73,38 73,45 C73,58 54,75 54,75 Z"/>
+</vector>
